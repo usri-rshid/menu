@@ -4,3 +4,9 @@ In this course, you'll learn CSS by designing a menu page for a fastfood webpage
 
 
 [DEMO LIVE](https://usri-rshid.github.io/menu/)
+<br/>
+
+#### ressources
+[pexels](https://www.pexels.com/fr-fr/photo/nourriture-aliments-salade-repas-6605785/)
+[flaticon](https://www.flaticon.com/search?word=drink)
+[pixabay](https://pixabay.com/fr/images/search/food/?pagi=3)

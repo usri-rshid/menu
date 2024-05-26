@@ -7,6 +7,6 @@ In this course, you'll learn CSS by designing a menu page for a fastfood webpage
 <br/>
 
 #### ressources
-[pexels](https://www.pexels.com/fr-fr/photo/nourriture-aliments-salade-repas-6605785/)
-[flaticon](https://www.flaticon.com/search?word=drink)
+[pexels](https://www.pexels.com/fr-fr/photo/nourriture-aliments-salade-repas-6605785/)<br>
+[flaticon](https://www.flaticon.com/search?word=drink)<br>
 [pixabay](https://pixabay.com/fr/images/search/food/?pagi=3)
